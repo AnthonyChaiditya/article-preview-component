@@ -68,3 +68,7 @@ p {
 .main-text {
   font-size: 20px;
 }
+
+.active-contact {
+  background-color: hsl(217, 19%, 25%);
+}
